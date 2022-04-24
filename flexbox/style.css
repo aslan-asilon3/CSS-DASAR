@@ -1,0 +1,135 @@
+.container .item1{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.item-1 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+.item-2 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+.item-3 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+/* ============item2============= */
+
+.container .item2{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+}
+.item-4 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-5 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-6 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+/* ============item3============= */
+
+.container .item3{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.item-7 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-8 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-9 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+/* ============item4============= */
+
+.container .item4{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 10px;
+}
+.item-10 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-11 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.item-12 {
+    background-color: #7d6699;
+    margin:5px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
